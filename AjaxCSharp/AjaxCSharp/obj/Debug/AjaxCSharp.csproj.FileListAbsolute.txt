@@ -1,0 +1,6 @@
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\bin\AjaxCSharp.dll.config
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\bin\AjaxCSharp.dll
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\bin\AjaxCSharp.pdb
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\obj\Debug\AjaxCSharp.csprojResolveAssemblyReference.cache
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\obj\Debug\AjaxCSharp.dll
+c:\users\carlos vargas\documents\visual studio 2013\Projects\AjaxCSharp\AjaxCSharp\obj\Debug\AjaxCSharp.pdb
